@@ -21,7 +21,7 @@ function arrayDoesNotInclude(arr, values){
 }
 
 //Test Suite
-describe('scope-closures', function () {
+describe('closures', function () {
 
 	describe('Problem 1 - fairytale ', function () {
 		it('should exist', function () {
